@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="784658af-d9f1-4788-841d-e0d27afda455" name="Default Changelist" comment="" />
+    <list default="true" id="784658af-d9f1-4788-841d-e0d27afda455" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sunkai@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sunkai@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="test: database" type="23e365eb:GenericImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sunkai@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="test: database" type="23e365eb:GenericImplModel$Database" />
+        <item name="#1: schema" type="255a0c4b:GenericImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,14 +51,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W8Tp0bWup60DC9tCpmJuplzH3G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2&#10;mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -34,7 +77,12 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:sunkai@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -51,7 +99,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578530400489</updated>
-      <workItem from="1578530403196" duration="692000" />
+      <workItem from="1578530403196" duration="1213000" />
+      <workItem from="1578534589451" duration="116000" />
+      <workItem from="1578539838581" duration="4067000" />
+      <workItem from="1578544013117" duration="2164000" />
     </task>
     <servers />
   </component>
@@ -63,9 +114,17 @@
       <screen x="1920" y="24" width="1920" height="1040" />
     </state>
     <state x="2371" y="111" key="#Project_Structure/0.0.1920.1040/1920.24.1920.1040@1920.24.1920.1040" timestamp="1578530423660" />
-    <state x="2470" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1578530403211">
+    <state x="2453" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578545902803">
       <screen x="1920" y="24" width="1920" height="1040" />
     </state>
-    <state x="2470" y="316" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.24.1920.1040@1920.24.1920.1040" timestamp="1578530403211" />
+    <state x="2453" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.24.1920.1040@1920.24.1920.1040" timestamp="1578545902803" />
+    <state x="2459" y="334" key="Performance.Activity.Monitor" timestamp="1578534634029">
+      <screen x="1920" y="24" width="1920" height="1040" />
+    </state>
+    <state x="2459" y="334" key="Performance.Activity.Monitor/0.0.1920.1040/1920.24.1920.1040@1920.24.1920.1040" timestamp="1578534634029" />
+    <state x="2470" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1578544012789">
+      <screen x="1920" y="24" width="1920" height="1040" />
+    </state>
+    <state x="2470" y="316" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.24.1920.1040@1920.24.1920.1040" timestamp="1578544012789" />
   </component>
 </project>
